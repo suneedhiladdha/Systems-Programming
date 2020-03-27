@@ -1,3 +1,2 @@
-# sypatel18-gmail.com
-CS-392-Systems Programming
+# CS-392-Systems Programming
 Here are several projects that I developed in C in my Systems Programming Class.
